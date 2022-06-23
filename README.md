@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex Ortega
 - 👀 I’m interested in Photography, Art, Gaming and Sports. I am diving into the world of software engineering and ready to constantly grow.
-- 🌱 I’m currently learning a Full Stack Web Development course offered by The Univeristy of Texas at Austin.
-- 🙏🏽 I’m looking to collaborate on any and everything. 
+- 🌱 Full stack developer looking for an oppurtunity to challenge me and help me grow in this space.
+- 🙏🏽 I’m looking to network and grow, please do not hesitate to reach out!
 - 📫 How to reach me via email: alexdiclothingco@icloud.com 
 - 👌 Resume attached [Alex Ortega Resume.pdf](https://github.com/alexcreatedit/alexcreatedit/files/8963697/Alex.Ortega.Resume.pdf)
 
